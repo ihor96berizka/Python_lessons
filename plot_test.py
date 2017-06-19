@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import math
 
 def f(x):
-    return math.sin(x ** 0.2) * x;
+    return math.sin(x ** 0.5) * x;
 
 x = []
 y = []
